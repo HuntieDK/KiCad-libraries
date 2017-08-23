@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4016
+D Quad Analog Switches
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP 4066
+D Quad Ananlog Switches
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP MAX314
+D Quad Analog Switches
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP RD-0512D
+D 5VDC to +/-12VDC isolated converter 2W
+K DC 5 12 isolated 2W 84ma
+$ENDCMP
+#
+$CMP SI8261BAC-C-IP
+D Gate driver 3.75kV Optoinput Sgl channel 4.0A
+K 3.75kV Optoinput Sgl channel 4.0A driver
+F http://www.mouser.com/ds/2/368/Si826x-245251.pdf
+$ENDCMP
+#
+$CMP TC426
+D Dual inverting FET driver
+K dual inverting fet driver
+$ENDCMP
+#
+$CMP TC427
+D Dual inverting FET driver
+K dual inverting fet driver
+$ENDCMP
+#
+$CMP TC428
+D Dual inverting FET driver
+K dual inverting fet driver
+$ENDCMP
+#
+$CMP TMR1-0522
+D 5VDC to +/-12VDC isolated converter 1W
+K DC 5 12 isolated 1W 42ma
+$ENDCMP
+#
+#End Doc Library
