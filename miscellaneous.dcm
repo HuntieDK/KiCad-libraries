@@ -10,6 +10,11 @@ D Quad Ananlog Switches
 K CMOS SWITCH
 $ENDCMP
 #
+$CMP IRM-03-5
+D 5V Encapsulated Switch Mode Power Supply 3W
+K 5 Encapsulated Switch Mode Power Supply 3
+$ENDCMP
+#
 $CMP MAX314
 D Quad Analog Switches
 K CMOS SWITCH
