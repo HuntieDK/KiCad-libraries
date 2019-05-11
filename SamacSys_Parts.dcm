@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP BD6211F-E2
+D ROHM BD6211F-E2, Full Bridge Motor Driver Half-Bridge,, 8-Pin SOP
+K
+F https://componentsearchengine.com/Datasheets/1/BD6211F-E2.pdf
+$ENDCMP
+#
+#End Doc Library
