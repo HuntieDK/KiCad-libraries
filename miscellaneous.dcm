@@ -10,6 +10,34 @@ D Quad Ananlog Switches
 K CMOS SWITCH
 $ENDCMP
 #
+$CMP 74LVC2G04
+D Dual inverter
+K Dual inverter
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf
+$ENDCMP
+#
+$CMP ADJH21005
+D ADJH21005, Bistable power relay single coil 5V, SPST, 50A
+K Bistable power relay single coil
+F https://na.industrial.panasonic.com/products/relays/mechanical-power-relays/general/series/dj-h-relays/3501/model/ADJH21005
+$ENDCMP
+#
+$CMP BD6211F-E2
+D DC Brush Motor Drivers (7V Max)
+K DC Brush Motor Driver h bridge sotp8
+$ENDCMP
+#
+$CMP H11AA1
+D AC DC Optocoupler Base Connected, Vce 30V, CTR 20-, DIP6
+K NPN AC DC Optocoupler Base Connected
+F https://www.vishay.com/docs/83608/h11aa1.pdf
+$ENDCMP
+#
+$CMP IRM-03-5
+D 5V Encapsulated Switch Mode Power Supply 3W
+K 5 Encapsulated Switch Mode Power Supply 3
+$ENDCMP
+#
 $CMP MAX314
 D Quad Analog Switches
 K CMOS SWITCH
