@@ -12,4 +12,16 @@ K
 F https://componentsearchengine.com/Datasheets/1/BD6211F-E2.pdf
 $ENDCMP
 #
+$CMP ADJH21005
+D PANASONIC - ADJH21005 - POWER RELAY, SPST-NO, 50A, 277VAC, TH
+K
+F https://www3.panasonic.biz/ac/e/dl/catalog/index.jsp?series_cd=3501&part_no=ADJH21005
+$ENDCMP
+#
+$CMP HCPL2731
+D Optocoupler Dual Darlington w/Base PDIP8
+K
+F http://uk.rs-online.com/web/p/products/1661706
+$ENDCMP
+#
 #End Doc Library
