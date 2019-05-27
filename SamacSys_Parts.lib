@@ -128,4 +128,24 @@ P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model 1792229
+#/325551/139476/2.43/2/3/Connector
+DEF 1792229 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1792229" 650 200 50 H V L CNN
+F2 "1792229" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/1792229.pdf" 650 0 50 H I L CNN
+F4 "Spring PCB terminal block 2 way 41A Spring PCB terminal block 2 way 41A" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "651-1792229" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=651-1792229" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1792229" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library

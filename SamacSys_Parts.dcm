@@ -30,4 +30,10 @@ K
 F https://www.mouser.ch/datasheet/2/308/HCPL3700-1301093.pdf
 $ENDCMP
 #
+$CMP 1792229
+D Spring PCB terminal block 2 way 41A Spring PCB terminal block 2 way 41A
+K
+F https://componentsearchengine.com/Datasheets/1/1792229.pdf
+$ENDCMP
+#
 #End Doc Library
