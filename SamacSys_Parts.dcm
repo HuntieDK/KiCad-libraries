@@ -36,4 +36,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/1792229.pdf
 $ENDCMP
 #
+$CMP 1792245
+D Spring PCB terminal block 4 way 41A
+K
+F http://uk.rs-online.com/web/p/products/7923395
+$ENDCMP
+#
 #End Doc Library
