@@ -171,4 +171,52 @@ P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model DS1775R+
+#/1358/139476/2.49/5/3/Integrated Circuit
+DEF DS1775R+ IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "DS1775R+" 950 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-351072.pdf" 950 0 50 H I L CNN
+F4 "DS1775R+, 12 bit Temperature Sensor +/-3 C Serial-2 Wire 2.7  5.5 V 5-Pin SOT-23" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Maxim Integrated" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DS1775R+" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X SCL 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X O.S. 3 0 -200 200 R 50 50 0 0 P
+X VDD 4 1100 0 200 L 50 50 0 0 P
+X SDA 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TPS2816DBVR
+#/747947/139476/2.49/5/3/Integrated Circuit
+DEF TPS2816DBVR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TPS2816DBVR" 850 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps2816" 850 0 50 H I L CNN
+F4 "Inverting High Speed MOSFET Driver with Active Pullup and Internal Regulator" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS2816DBVR" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS2816DBVR" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2816DBVR?qs=nesEVyHefHxaCkxdgHQbew%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TPS2816DBVR" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tps2816dbvr/texas-instruments" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VDD 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X IN 3 0 -200 200 R 50 50 0 0 P
+X OUT 4 1000 0 200 L 50 50 0 0 P
+X VCC 5 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
 #End Library
