@@ -54,4 +54,16 @@ K
 F http://www.ti.com/lit/gpn/tps2816
 $ENDCMP
 #
+$CMP ZXCT1081E5TA
+D DIODES INC. - ZXCT1081E5TA - Current Sensor, High Voltage, 80 A, 50 kHz, SOT-23, 5 Pins, 4.5 V, 12 V
+K
+F https://www.diodes.com/assets/Datasheets/ZXCT1081.pdf
+$ENDCMP
+#
+$CMP MCP111-270E_TO
+D Supervisory Circuits Open Drain
+K
+F https://componentsearchengine.com/Datasheets/1/MCP111-270E_TO.pdf
+$ENDCMP
+#
 #End Doc Library
