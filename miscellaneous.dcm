@@ -27,6 +27,10 @@ D DC Brush Motor Drivers (7V Max)
 K DC Brush Motor Driver h bridge sotp8
 $ENDCMP
 #
+$CMP CONTROLLINO_MINI_PURE
+D Controllino Mini Pure DIN rail microcontroller
+$ENDCMP
+#
 $CMP H11AA1
 D AC DC Optocoupler Base Connected, Vce 30V, CTR 20-, DIP6
 K NPN AC DC Optocoupler Base Connected
