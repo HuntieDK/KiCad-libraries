@@ -66,4 +66,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/MCP111-270E_TO.pdf
 $ENDCMP
 #
+$CMP PQP1-D24-S5-M
+D Isolated DC/DC Converters dc-dc isolated, 1 W, 18~36 Vdc input, 5 Vdc, 200 mA, single regulated output, SMT
+K
+F https://www.cui.com/product/resource/pqp1-m.pdf
+$ENDCMP
+#
 #End Doc Library
