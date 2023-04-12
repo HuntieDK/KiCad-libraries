@@ -72,4 +72,10 @@ K
 F https://www.cui.com/product/resource/pqp1-m.pdf
 $ENDCMP
 #
+$CMP TLP3547_TP1,F_O
+D Solid State SPST-NO (1 Form A) 8-SMD, Gull Wing
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=36853&prodName=TLP3547
+$ENDCMP
+#
 #End Doc Library
