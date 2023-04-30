@@ -84,4 +84,16 @@ K
 F https://www.ti.com/lit/ds/symlink/ucc23511-q1.pdf?ts=1627544974707&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DUCC23511QDWYRQ1
 $ENDCMP
 #
+$CMP TPA11CGRA004
+D Pushbutton Switches SPST PUSHBUTTON SWITCH ROUND
+K
+F https://componentsearchengine.com/Datasheets/2/TPA11CGRA004.pdf
+$ENDCMP
+#
+$CMP 550-4013F
+D LED Circuit Board Indicators CBI 5MM RGB W 4 LEADS
+K
+F https://www.mouser.de/datasheet/2/109/C18516B_2b1-2897553.pdf
+$ENDCMP
+#
 #End Doc Library
