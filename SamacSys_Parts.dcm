@@ -96,4 +96,10 @@ K
 F https://www.mouser.de/datasheet/2/109/C18516B_2b1-2897553.pdf
 $ENDCMP
 #
+$CMP ISO224ADWV
+D Isolation Amplifiers +/-12V reinforced isolated amplifier for voltage sensing 8-SOIC -55 to 125
+K
+F http://www.ti.com/lit/ds/symlink/iso224.pdf
+$ENDCMP
+#
 #End Doc Library
