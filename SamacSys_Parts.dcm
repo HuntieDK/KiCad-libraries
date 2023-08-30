@@ -102,4 +102,10 @@ K
 F http://www.ti.com/lit/ds/symlink/iso224.pdf
 $ENDCMP
 #
+$CMP RT424A05
+D PCB Relay DPDT 8A 5Vdc bistable
+K
+F https://componentsearchengine.com/Datasheets/1/RT424A05.pdf
+$ENDCMP
+#
 #End Doc Library
