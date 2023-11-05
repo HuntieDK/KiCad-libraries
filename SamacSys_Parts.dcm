@@ -108,4 +108,10 @@ K
 F https://componentsearchengine.com/Datasheets/1/RT424A05.pdf
 $ENDCMP
 #
+$CMP RT424F12
+D RELAY RT BISTABLE 12V
+K
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_bistable&DocType=DS&DocLang=English
+$ENDCMP
+#
 #End Doc Library
