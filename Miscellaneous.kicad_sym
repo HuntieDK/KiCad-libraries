@@ -1535,7 +1535,7 @@
     (property "Value" "T-ETH-Lite-ESP32-S3" (id 1) (at -11.43 -16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at -6.35 -27.94 0)
+    (property "Footprint" "Miscellaneous:T-ETH-Lite-ESP32-S3" (id 2) (at -6.35 -27.94 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.lilygo.cc/products/t-eth-lite" (id 3) (at 0 -40.64 0)
