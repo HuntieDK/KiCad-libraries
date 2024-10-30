@@ -114,4 +114,10 @@ K
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_bistable&DocType=DS&DocLang=English
 $ENDCMP
 #
+$CMP ACT512
+D Automotive Relays 12VDC 1 FORM C X 2 20A 10 TERMINALS
+K
+F https://componentsearchengine.com/Datasheets/2/ACT512.pdf
+$ENDCMP
+#
 #End Doc Library
